@@ -1,6 +1,6 @@
 ### Hi there - README👋
 
-<!--
+
 **Celina-Fu/Celina-Fu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -11,4 +11,4 @@
 - 📫 How to reach me: fuz28@mcmaster.ca
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I thought LinkedIn invented this type of bio formatting, not Github!
--->
+
